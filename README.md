@@ -1,2 +1,2 @@
 # Computational-Methods-of-Finance
-Option Pricing 
+Put Option Pricing 
